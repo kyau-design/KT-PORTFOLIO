@@ -2,7 +2,6 @@ body{
 	font-size:10;
 	font-weight:lighter;
 	font-family:"Century Gothic", Helvetica, Arial, sans-serif;
-	color:white;
 }
 
 #header{
@@ -22,6 +21,11 @@ body{
 	position:relative;
 	margin-left:550px;
 	margin-top:-3%;
+}
+
+#header a{
+	text-decoration:none;
+	color:white;
 }
 
 .logo{
