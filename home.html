@@ -4,6 +4,13 @@
 	<title>kyau.design</title>
 	<link rel="stylesheet" type="text/css" href="style.css" /> 
 	<link rel="stylesheet" type="text/css" href="normalize.css" /> 
+	<link rel="stylesheet" href="photoslider.css" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="./themes/default/default.css" />
+
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+	<script src="photoslider.js" type="text/javascript"></script>
+
 </head>
 <body>
 	<div id="header">
@@ -26,6 +33,28 @@
 	</div> <!-- end of div "sub-header" -->
 
 
+	<div class="slider-wrapper theme-default">
+    	<div id="slider" class="nivoSlider">
+        <img src="./images/pinecone.jpg" alt="pinecone" />
+        <img src="./images/pipeline.jpg" alt="pipeline" title="#htmlcaption" />
+        <img src="./images/jeffrey.jpg" alt="jeffrey" title="This is an example of a caption" />
+        <img src="./images/bartender.jpg" alt="bartender" />
+		</div>
+
+		<div id="htmlcaption" class="nivo-html-caption">
+   		 <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
+		</div>
+	</div>
+
+	<script type="text/javascript">
+$(window).load(function() {
+    $('#slider').nivoSlider();
+});
+</script>
+
+
+	<div id="footer">
+	</div> <!-- end of div "footer" -->
 
 </body>
 </html>
