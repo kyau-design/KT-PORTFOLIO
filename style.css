@@ -12,6 +12,9 @@ body{
 #header ul li{
 	display:inline;
 	font-size:11pt;
+}
+
+#header ul li a{
 	margin-right:50px;
 	padding-left:10px;
 	padding-top:20px;
@@ -28,6 +31,32 @@ body{
 	text-decoration:none;
 	color:white;
 }
+
+/*----------- NAVIGATION HOVER -----------*/
+#header a.about:hover{
+	border-left:1px solid red;
+	padding-left:10px;
+	padding-top:20px;
+}
+
+#header a.port:hover{
+	border-left:1px solid orange;
+	padding-left:10px;
+	padding-top:20px;
+}
+
+#header a.blog:hover{
+	border-left:1px solid green;
+	padding-left:10px;
+	padding-top:20px;
+}
+
+#header a.contact:hover{
+	border-left:1px solid blue;
+	padding-left:10px;
+	padding-top:20px;
+}
+/*----------- NAVIGATION HOVER -----------*/
 
 .logo{
 	position:relative;
@@ -49,12 +78,6 @@ body{
 }
 /*----------------------------- end of div "sub-header" ---------------------------*/
 
-
-
-
-
-
-/*----------------------------- end of div "slider-wrapper" ---------------------------*/
 
 
 
