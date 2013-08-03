@@ -59,7 +59,7 @@
 .nivo-box img { display:block; }
 
 /* Caption styles */
-.nivo-caption {
+/*.nivo-caption {
 	position:absolute;
 	left:0px;
 	bottom:0px;
@@ -74,9 +74,9 @@
 	-moz-opacity: 0.8;
 	filter:alpha(opacity=8);
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
-	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
-	box-sizing: border-box;         /* Opera/IE 8+ */
-}
+/*	-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+/*	box-sizing: border-box;         /* Opera/IE 8+ */
+/*}
 .nivo-caption p {
 	padding:5px;
 	margin:0;
