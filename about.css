@@ -1,0 +1,26 @@
+#header a.about{
+	border-left:1px solid red;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#header a.about:hover{
+	border-left:1px solid red;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+
+#about_content{
+	padding:2%;
+}
+
+#about_content p{
+	width:40%;
+}
+
+#about_content .katie{
+	width:500px;
+}

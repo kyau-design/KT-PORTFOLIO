@@ -78,6 +78,15 @@ body{
 }
 /*----------------------------- end of div "sub-header" ---------------------------*/
 
+#footer{
+	background-color:#575757;
+	height:40px;
+	padding-left:20%;
+}
+
+/*----------------------------- end of div "footer" -------------------------------*/
+
+/************************ HOMEPAGE **************************/
 
 /*----------photoslider-----------*/
 .nivoSlider {
@@ -94,14 +103,8 @@ body{
     border:0;
     display:block;
 }
-/*----------photoslider-----------*/
-
-#footer{
-	background-color:#575757;
-}
+/*----------end of photoslider-----------*/
 
 
 
 
-
-/*----------------------------- end of div "footer" -------------------------------*/
