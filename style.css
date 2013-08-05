@@ -40,19 +40,19 @@ body{
 }
 
 #header a.port:hover{
-	border-left:1px solid orange;
+	border-left:1px solid #D36E2B;
 	padding-left:10px;
 	padding-top:20px;
 }
 
 #header a.blog:hover{
-	border-left:1px solid green;
+	border-left:1px solid #699F72;
 	padding-left:10px;
 	padding-top:20px;
 }
 
 #header a.contact:hover{
-	border-left:1px solid blue;
+	border-left:1px solid #4e95be;
 	padding-left:10px;
 	padding-top:20px;
 }
@@ -68,7 +68,7 @@ body{
 /*----------------------------- end of div "header" -------------------------------*/
 #sub-header{
 	position:relative;
-	background-color:grey;
+	background-color:#575757;
 	height:48px;
 	padding:2px;
 }
@@ -81,7 +81,7 @@ body{
 #footer{
 	background-color:#575757;
 	height:40px;
-	padding-left:20%;
+	padding-left:19%;
 }
 
 /*----------------------------- end of div "footer" -------------------------------*/

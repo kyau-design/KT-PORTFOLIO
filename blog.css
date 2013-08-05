@@ -1,0 +1,21 @@
+#header a.blog{
+	border-left:1px solid #699F72;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#header a.blog:hover{
+	border-left:1px solid #699F72;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#sub-header{
+	background-color:#699F72;
+}
+
+#footer{
+	background-color:#699F72;
+}

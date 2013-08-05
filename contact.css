@@ -1,0 +1,21 @@
+#header a.contact{
+	border-left:1px solid #4e95be;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#header a.contact:hover{
+	border-left:1px solid #4e95be;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#sub-header{
+	background-color:#4e95be;
+}
+
+#footer{
+	background-color:#4e95be;
+}

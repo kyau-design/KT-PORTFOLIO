@@ -1,0 +1,30 @@
+#header a.port{
+	border-left:1px solid #D36E2B;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#header a.port:hover{
+	border-left:1px solid #D36E2B;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#sub-header{
+	background-color:#D36E2B;
+}
+
+#footer{
+	background-color:#D36E2B;
+}
+
+/*------------------------------ END OF BASIC LAYOUT --------------------------*/
+
+#sub-header ul li{
+	display:inline;
+	font-size:10pt;
+}
+
+
