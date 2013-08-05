@@ -34,7 +34,7 @@ body{
 
 /*----------- NAVIGATION HOVER -----------*/
 #header a.about:hover{
-	border-left:1px solid red;
+	border-left:1px solid #ff2f2f;
 	padding-left:10px;
 	padding-top:20px;
 }
@@ -68,7 +68,7 @@ body{
 /*----------------------------- end of div "header" -------------------------------*/
 #sub-header{
 	position:relative;
-	background-color:#575757;
+	background-color:grey;
 	height:48px;
 	padding:2px;
 }

@@ -1,26 +1,40 @@
 #header a.about{
-	border-left:1px solid red;
+	border-left:1px solid #da4c4c;
 	padding-left:10px;
 	padding-top:20px;
 	padding-bottom:50px;
 }
 
 #header a.about:hover{
-	border-left:1px solid red;
+	border-left:1px solid #da4c4c;
 	padding-left:10px;
 	padding-top:20px;
 	padding-bottom:50px;
 }
 
+#sub-header{
+	background-color:#da4c4c;
+}
 
 #about_content{
-	padding:2%;
+	margin:0 auto;
+	padding:0 auto;
+	width:40%;
+}
+
+#about_content img{
+	margin-top:2%;
 }
 
 #about_content p{
-	width:40%;
 }
 
 #about_content .katie{
 	width:500px;
 }
+
+#footer{
+	background-color:#da4c4c;
+}
+
+/*----------------------------- end of div "footer" -------------------------------*/
