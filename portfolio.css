@@ -22,9 +22,26 @@
 
 /*------------------------------ END OF BASIC LAYOUT --------------------------*/
 
+#sub-header ul{
+	margin-left:45%;
+}
+
 #sub-header ul li{
 	display:inline;
 	font-size:10pt;
 }
 
+#sub-header ul li a{
+	text-decoration:none;
+	color:white;
+	margin-right:20px;
+}
+
+#sub-header ul li a:hover{
+	border-bottom:3px solid #ffa061;
+}
+
+#sub-header .new{
+	border-bottom:3px solid #ffa061;
+}
 
