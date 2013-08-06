@@ -53,8 +53,13 @@
 }
 
 #blog_02{
+	float:left;
 	margin-bottom:5%;
 	padding:2%;
+}
+
+#blog_01 p{
+	margin-bottom:2%;
 }
 
 
