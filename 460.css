@@ -1,0 +1,43 @@
+/*----------------------- ABOUT PAGE ---------------------------*/
+
+#about_content{
+	font-size:9pt;
+}
+
+#about_content h1{
+	font-size:25pt;
+}
+
+#about_content h2{
+	font-size:15pt;
+}
+
+#about_content .katie{
+	width:350px;
+}
+
+#experience{
+	width:90%;
+}
+
+#experience ul{
+	width:90%;
+}
+
+#skills{
+	width:60%;
+}
+
+#skills ul{
+	width:45%;
+}
+
+#interest{
+	width:25%;
+}
+
+#personal img{
+	width:30%;
+}
+
+/*----------------------- ABOUT PAGE ---------------------------*/

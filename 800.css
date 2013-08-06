@@ -1,0 +1,35 @@
+/*----------------------- ABOUT PAGE ---------------------------*/
+
+#about_content{
+	font-size:10pt;
+}
+
+#lower_content{
+	margin-top:4%;
+}
+#experience{
+	width:45%;
+}
+
+#experience ul{
+	width:90%;
+}
+
+#skills{
+	width:35%;
+}
+
+#skills ul{
+	width:45%;
+}
+
+#personal p{
+	width:100%;
+	margin-bottom:2%;
+}
+
+#personal img{
+	width:20%;
+}
+
+/*----------------------- ABOUT PAGE ---------------------------*/
