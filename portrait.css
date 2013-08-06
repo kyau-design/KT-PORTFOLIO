@@ -1,0 +1,29 @@
+#header a.port{
+	border-left:1px solid #D36E2B;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#header a.port:hover{
+	border-left:1px solid #D36E2B;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#sub-header{
+	background-color:#D36E2B;
+}
+
+#sub-header .new{
+	border-bottom:none;
+}
+
+#sub-header .portrait_link{
+	border-bottom:3px solid #ffa061;
+}
+
+#footer{
+	background-color:#D36E2B;
+}
