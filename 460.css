@@ -86,3 +86,51 @@
 }
 
 /*----------------------- CONTACT PAGE ---------------------------*/
+#blog_content{
+	width:85%;
+}
+
+#blog_sidebar{
+	margin-left:5%;
+}
+
+#sidebar_02 {
+	float:left;
+	background-color:red;
+}
+
+#sidebar_01{
+	float:left;
+}
+
+#blog_sidebar{
+	float:left;
+	margin-top:100px;
+	margin-bottom:10%;
+	color:white;
+	width:85%;
+}
+
+#blog_sidebar ul li{
+	list-style:none;
+	margin-bottom:5%;
+}
+
+#blog_sidebar ul{
+	padding:0;
+}
+
+#blog_sidebar a{
+	color:grey;
+	text-decoration:none;
+}
+
+#blog_sidebar a:hover{
+	color:white;
+	text-decoration:underline;
+}
+
+
+
+
+/*----------------------- BLOG PAGE ---------------------------*/

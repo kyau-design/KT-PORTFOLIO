@@ -8,6 +8,14 @@ body{
 	font-family:"Century Gothic", Helvetica, Arial, sans-serif;
 }
 
+.white{
+	color:white;
+}
+
+.grey{
+	color:grey;
+}
+
 #header{
 	background-image:url("./images/header_background.png");
 	height:208px;

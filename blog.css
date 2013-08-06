@@ -39,6 +39,7 @@
 	color:white;
 	margin:0;
 	margin-top:10%;
+	border-bottom:5px solid white;
 } 
 
 #blog_content h2{
@@ -53,7 +54,6 @@
 
 #blog_02{
 	margin-bottom:5%;
-	border-top:5px solid white;
 	padding:2%;
 }
 
@@ -66,6 +66,7 @@
 #blog_sidebar{
 	float:left;
 	margin-top:100px;
+	margin-bottom:10%;
 	color:white;
 	width:20%;
 }
