@@ -1,3 +1,27 @@
+
+#header nav{
+	margin-left:60%;
+	margin-top:-100px;
+}
+
+#header ul li{
+	display:block;
+	margin-bottom:10px;
+}
+
+.logo{
+	margin-left:10%;
+}
+
+#sub-header ul{
+	margin-left:10%;
+}
+/*----------------------- PORTFOLIO PAGE ---------------------------*/
+.boxgrid{
+	width:30%;
+}
+/*----------------------- PORTFOLIO PAGE ---------------------------*/
+
 /*----------------------- ABOUT PAGE ---------------------------*/
 
 #about_content{
