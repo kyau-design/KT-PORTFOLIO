@@ -16,6 +16,15 @@
 	background-color:#4e95be;
 }
 
+#sub-header a{
+	text-decoration:none;
+	color:white;
+}
+
+#sub-header a:hover{
+	text-decoration:underline;
+}
+
 #contact_content{
 	padding:2%;
 	padding-left:5%;

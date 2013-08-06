@@ -9,6 +9,9 @@
 	margin-bottom:10px;
 }
 
+#header ul li a{
+	padding-top:10px;
+}
 .logo{
 	margin-left:10%;
 }
@@ -16,13 +19,11 @@
 #sub-header ul{
 	margin-left:10%;
 }
-/*----------------------- PORTFOLIO PAGE ---------------------------*/
+/*----------------------- HEADER / SUBHEADER ---------------------------*/
 .boxgrid{
 	width:30%;
 }
 /*----------------------- PORTFOLIO PAGE ---------------------------*/
-
-/*----------------------- ABOUT PAGE ---------------------------*/
 
 #about_content{
 	font-size:9pt;
@@ -65,3 +66,23 @@
 }
 
 /*----------------------- ABOUT PAGE ---------------------------*/
+#contact_content img{
+	width:95%;
+	border:5px solid white;
+}
+
+#brief{
+	padding-bottom:15%;
+}
+
+#brief img{
+	width:10%;
+	border:none;
+	margin-right:1%;
+}
+
+#brief a:hover img{
+	width:11%;
+}
+
+/*----------------------- CONTACT PAGE ---------------------------*/
