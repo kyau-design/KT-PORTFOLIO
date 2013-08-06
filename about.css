@@ -21,19 +21,15 @@
 	padding:2%;
 	padding-left:5%;
 	padding-right:5%;
+	font-size:11pt;
 }
 
 #about_content img{
 	float:left;
-	margin:0 auto;
-	padding:0 auto;
 	border:10px solid white;
 }
 
 #about_content p{
-	float:left;
-	margin:0 auto;
-	padding:0 auto;
 	color:white;
 	width:40%;
 }
@@ -54,6 +50,7 @@
 	font-size:25pt;
 	color:white;
 	margin:0;
+	margin-bottom:2%;
 }
 
 #brief{
@@ -65,6 +62,64 @@
 	color:white;
 	list-style:none;
 	margin-bottom:1%;
+}
+
+#lower_content{
+	margin-top:8%;
+}
+
+#experience{
+	float:left;
+}
+
+#experience ul li{
+	color:white;
+	list-style:none;
+}
+
+#experience ul{
+	background-color:#262626;
+	opacity:0.8;
+	padding:1%;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+	width:80%;
+	margin-bottom:1%;
+}
+
+#skills{
+	float:left;
+	width:50%;
+}
+
+#skills h2{
+	margin:0;
+	padding:0;
+}
+
+#skills ul li{
+	background-color:#262626;
+	opacity:0.8;
+	color:grey;
+	list-style:none;
+	padding-bottom:10%;
+	padding-top:5%;
+	padding-left:10%;
+	padding-right:10%;
+	border-bottom:1px solid grey;
+
+}
+
+#skills ul{
+	float:left;
+	width:20%;
+	padding:0;
+	margin:0;
+	margin-right:5%;
+}
+
+#personal{
+	float:left;
 }
 
 
