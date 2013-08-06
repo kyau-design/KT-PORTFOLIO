@@ -1,3 +1,7 @@
+html{
+	background-image:url("./images/header_background.png");
+}
+
 body{
 	font-size:10pt;
 	font-weight:lighter;
@@ -77,6 +81,11 @@ body{
 	margin-left:19%;
 }
 /*----------------------------- end of div "sub-header" ---------------------------*/
+.clear{
+	clear:both;
+	width:0;
+	height:0;
+}
 
 footer{
 	background-color:#575757;

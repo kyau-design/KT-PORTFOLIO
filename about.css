@@ -19,14 +19,19 @@
 #about_content{
 	background-image:url("./images/header_background.png");
 	padding:2%;
+	padding-left:5%;
+	padding-right:5%;
 }
 
 #about_content img{
+	float:left;
 	margin:0 auto;
 	padding:0 auto;
+	border:10px solid white;
 }
 
 #about_content p{
+	float:left;
 	margin:0 auto;
 	padding:0 auto;
 	color:white;
@@ -34,8 +39,34 @@
 }
 
 #about_content .katie{
-	width:500px;
+	width:600px;
+	margin-right:3%;
 }
+
+#about_content h1{
+	font-size:40pt;
+	color:white;
+	margin:0;
+	margin-top:2%;
+}
+
+#about_content h2{
+	font-size:25pt;
+	color:white;
+	margin:0;
+}
+
+#brief{
+	border-top:5px solid white;
+	border-bottom:5px solid white;
+}
+
+#brief ul li{
+	color:white;
+	list-style:none;
+	margin-bottom:1%;
+}
+
 
 footer{
 	background-color:#da4c4c;
