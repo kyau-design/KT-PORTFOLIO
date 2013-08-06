@@ -45,3 +45,15 @@
 	border-bottom:3px solid #ffa061;
 }
 
+#images{
+	margin:0 auto;
+	padding-left:12%;
+	padding-bottom:2%;
+	padding-top:2%;
+}
+
+.clear{
+	clear:both;
+	width:0;
+	height:0;
+}

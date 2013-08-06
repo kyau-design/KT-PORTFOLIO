@@ -1,0 +1,55 @@
+#header a.port{
+	border-left:1px solid #D36E2B;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#header a.port:hover{
+	border-left:1px solid #D36E2B;
+	padding-left:10px;
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#sub-header{
+	background-color:#D36E2B;
+}
+
+#footer{
+	background-color:#D36E2B;
+}
+
+/*------------------------------ END OF BASIC LAYOUT --------------------------*/
+
+#sub-header ul{
+	margin-left:45%;
+}
+
+#sub-header ul li{
+	display:inline;
+	font-size:10pt;
+}
+
+#sub-header ul li a{
+	text-decoration:none;
+	color:white;
+	margin-right:20px;
+}
+
+#sub-header ul li a:hover{
+	border-bottom:3px solid #ffa061;
+}
+
+#sub-header .new{
+	border-bottom:3px solid #ffa061;
+}
+
+#images{
+	margin:0 auto;
+	padding-left:12%;
+	padding-bottom:2%;
+	padding-top:2%;
+	background-image:url("./images/header_background.png");
+}
+

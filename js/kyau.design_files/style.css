@@ -1,0 +1,110 @@
+body{
+	font-size:10pt;
+	font-weight:lighter;
+	font-family:"Century Gothic", Helvetica, Arial, sans-serif;
+}
+
+#header{
+	background-image:url("./images/header_background.png");
+	height:208px;
+}
+
+#header ul li{
+	display:inline;
+	font-size:11pt;
+}
+
+#header ul li a{
+	margin-right:50px;
+	padding-left:10px;
+	padding-top:20px;
+	border-left:1px solid grey;
+}
+
+#header nav{
+	position:relative;
+	margin-left:45%;
+	margin-top:-32px;
+}
+
+#header a{
+	text-decoration:none;
+	color:white;
+}
+
+/*----------- NAVIGATION HOVER -----------*/
+#header a.about:hover{
+	border-left:1px solid #ff2f2f;
+	padding-left:10px;
+	padding-top:20px;
+}
+
+#header a.port:hover{
+	border-left:1px solid #D36E2B;
+	padding-left:10px;
+	padding-top:20px;
+}
+
+#header a.blog:hover{
+	border-left:1px solid #699F72;
+	padding-left:10px;
+	padding-top:20px;
+}
+
+#header a.contact:hover{
+	border-left:1px solid #4e95be;
+	padding-left:10px;
+	padding-top:20px;
+}
+/*----------- NAVIGATION HOVER -----------*/
+
+.logo{
+	position:relative;
+	width:120px;
+	margin-left:19%;
+	margin-top:25px;
+}
+
+/*----------------------------- end of div "header" -------------------------------*/
+#sub-header{
+	position:relative;
+	background-color:#575757;
+	height:48px;
+	padding:2px;
+}
+
+#sub-header p{
+	margin-left:19%;
+}
+/*----------------------------- end of div "sub-header" ---------------------------*/
+
+#footer{
+	background-color:#575757;
+	height:40px;
+	padding-left:19%;
+}
+
+/*----------------------------- end of div "footer" -------------------------------*/
+
+/************************ HOMEPAGE **************************/
+
+/*----------photoslider-----------*/
+.nivoSlider {
+    position:relative;
+    background:url(images/loading.gif) no-repeat 50% 50%;
+}
+.nivoSlider img {
+    position:absolute;
+    top:0px;
+    left:0px;
+    display:none;
+}
+.nivoSlider a {
+    border:0;
+    display:block;
+}
+/*----------end of photoslider-----------*/
+
+
+
+
