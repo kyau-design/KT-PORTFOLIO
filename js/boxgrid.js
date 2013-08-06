@@ -26,9 +26,9 @@ $(document).ready(function(){
     });  
     //Full Caption Sliding (Hidden to Visible)  
     $('.boxgrid.captionfull').hover(function(){  
-        $(".cover", this).stop().animate({top:'160px'},{queue:false,duration:160});  
+        $(".cover", this).stop().animate({top:'-11%'},{queue:false,duration:160});  
     }, function() {  
-        $(".cover", this).stop().animate({top:'260px'},{queue:false,duration:160});  
+        $(".cover", this).stop().animate({top:'100%'},{queue:false,duration:160});  
     });  
     //Caption Sliding (Partially Hidden to Visible)  
     $('.boxgrid.caption').hover(function(){  

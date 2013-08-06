@@ -1,46 +1,37 @@
-            .boxgrid{ 
-                width:22%;
-                overflow:hidden; 
-                position:relative;
-                float:left; 
-                margin-right:1%;
-            }
-                .boxgrid img{ 
-                    width:100%; 
-                    margin-bottom:3%;
-                }
-
-                .boxgrid p{ 
-                    color:grey; 
-                    font-weight:bold; 
-                    font:10pt "Century Gothic", Arial, sans-serif; 
-                    margin-top:0%;
-                    margin-left:5%;
-                }
-
-                .boxgrid h3{
-                    color:white;
-                    margin-bottom:0%;
-                    margin-left:5%;
-                }
+.boxgrid{ 
+    width:22%;
+    overflow:hidden; 
+    position:relative;
+    float:left; 
+    margin-right:1%;
+}
                 
-            .boxcaption{  
-                position:absolute;
-                background: #000;
-                margin-top:11%;
-                height: 24%; 
-                width: 100%; 
-                opacity: .8; 
-                /* For IE 5-7 */
-                filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
-                /* For IE 8 */
-                -MS-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-            }
-                .captionfull .boxcaption {
-                    top: 260;
-                    left: 0;
-                }
-                .caption .boxcaption {
-                    top: 220;
-                    left: 0;
-                }
+
+.boxgrid img{ 
+    width:100%; 
+    margin-bottom:3%;
+}
+
+.boxgrid p{ 
+    color:grey; 
+    font-weight:bold; 
+    font:10pt "Century Gothic", Arial, sans-serif; 
+    margin-top:0%;
+    margin-left:5%;
+}
+
+.boxgrid h3{
+    color:white;
+    margin-bottom:0%;
+    margin-left:5%;
+}
+                
+.boxcaption{  
+    position:absolute;
+    background: #000;
+    margin-top:11%;
+    height: 100%; 
+    width: 100%; 
+    opacity: .8; 
+    font-size: 1em;
+}
