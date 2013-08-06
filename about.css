@@ -30,8 +30,12 @@
 }
 
 #about_content p{
-	color:white;
+	background-color:#262626;
+	opacity:0.8;
+	color:grey;
 	width:40%;
+	padding:1%;
+	margin:0;
 }
 
 #about_content .katie{
@@ -120,6 +124,29 @@
 
 #personal{
 	float:left;
+	margin-bottom:2%;
+}
+
+#personal a{
+	text-decoration:none;
+	color:white;
+}
+
+#personal a:hover{
+	text-decoration:underline;
+}
+
+#personal p{
+	float:left;
+	margin-right:2%;
+}
+
+#personal img{
+	float:left;
+	width:15%;
+	border:2px solid white;
+	margin:1%;
+	margin-top:0;
 }
 
 
