@@ -1,3 +1,16 @@
+#header ul li a{
+	margin-right:25px;
+}
+
+#header nav{
+	margin-left:35%;
+}
+/*----------------------- PORTFOLIO PAGE ---------------------------*/
+#sub-header ul{
+	margin-left:35%;
+}
+/*----------------------- PORTFOLIO PAGE ---------------------------*/
+
 /*----------------------- ABOUT PAGE ---------------------------*/
 
 #about_content{
