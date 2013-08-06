@@ -17,24 +17,32 @@
 }
 
 #about_content{
-	margin:0 auto;
-	padding:0 auto;
-	width:40%;
+	background-image:url("./images/header_background.png");
+	padding:2%;
 }
 
 #about_content img{
-	margin-top:2%;
+	margin:0 auto;
+	padding:0 auto;
 }
 
 #about_content p{
+	margin:0 auto;
+	padding:0 auto;
+	color:white;
+	width:40%;
 }
 
 #about_content .katie{
 	width:500px;
 }
 
-#footer{
+footer{
 	background-color:#da4c4c;
+	height:30px;
+	padding-left:20%;
+	padding-top:1%;
 }
+
 
 /*----------------------------- end of div "footer" -------------------------------*/
